@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
-    <jasperReport.version>6.7.1</jasperReport.version>
+    <jasperReport.version>6.19.0</jasperReport.version>
     <apachePoi.version>4.0.1</apachePoi.version>
   </properties>
   
